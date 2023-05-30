@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(226, 140, 140);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
+    text-align: center;
+    
+}
+h2{
+    font-size: 40px;
+    font-weight: bold;
+}
+.bottuns{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+#increment-btn{
+    
+    background-color: brown;
+    border-radius: 5px;
+    color: white;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+#save-btn{
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+    width: 200px;
+    padding: 10px 10px 10px 10px ;
+}
+#save-el{
+    color: black;
+    text-align: center;
+    background-color: wheat;
+    width: fixed;
+    
+}
