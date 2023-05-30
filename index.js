@@ -57,12 +57,12 @@ function saveElement(){
 
 
 // welcome massage
-// var name = " yukabed" 
-// var greeting = "welcome back"
-// var greet = greeting + name +" 👋 ."
-// alert(
-//     greet
-// )
+var name = " yukabed" 
+var greeting = "welcome back"
+var greet = greeting + name +" 👋 ."
+alert(
+    greet
+)
 
 
 
